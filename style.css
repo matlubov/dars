@@ -1,0 +1,123 @@
+.countener {
+    display: flex;
+    justify-content: center;
+}
+.box1 {
+    background-color:aquamarine;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2 {
+    background-color:chocolate;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box3 {
+    background-color:blue;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box4 {
+    background-color:green;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.countener1{
+    display: flex;
+    justify-content: center;
+
+}
+.box5{
+    background-color: black;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    background-image: url('https://sportishka.com/uploads/posts/2022-11/1667566350_38-sportishka-com-p-dodzh-chellendzher-daitona-krasivo-44.jpg');
+    background-size: cover;
+}
+.box6{
+    background-color: black;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    background-image: url('https://moscow-autosalon.ru/static/cars/2290/640/18.webp');
+    background-size: cover;
+    background-position: center;
+}
+.box7{
+    background-color: black;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    background-image: url('https://moscow-autosalon.ru/static/cars/1958/640/18.webp');
+    background-size: cover;
+    background-position: center;
+}
+.box8{
+    background-color: black;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    background-image: url('https://sportishka.com/uploads/posts/2023-12/1701491112_sportishka-com-p-samaya-luchshaya-mashina-bmv-vkontakte-36.jpg');
+    background-size: cover;
+
+}
+.countener2{
+    display: flex;
+    justify-content: center;
+}
+.box9{
+    background-color: black;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    background-image: url('https://sportishka.com/uploads/posts/2023-11/1701236196_sportishka-com-p-samaya-luchshaya-bmv-krasivo-75.jpg');
+    background-size: cover;
+}
+.box10{
+    background-color: black;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    background-image: url('https://sportishka.com/uploads/posts/2023-12/1701848263_sportishka-com-p-krasivie-mashini-bmv-krasivo-5.jpg');
+    background-size: cover;
+}
+.box11{
+    background-color: black;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    background-image: url('https://sportishka.com/uploads/posts/2023-12/1701848260_sportishka-com-p-krasivie-mashini-bmv-krasivo-15.jpg');
+    background-size: cover;
+    background-position: bottom;
+}
+.box12{
+    background-color: black;
+    width: 300px ;
+    height: 300px ;
+    margin: 10px ;
+    background-image: url('https://i.pinimg.com/originals/8e/4f/d1/8e4fd1349bc729c992135dc4883d31a0.jpg');
+    background-size: cover;
+}
+i {
+    font-size: 80px ;
+    color: white;
+}
+
